@@ -1,0 +1,11 @@
+*~
+
+.tscache
+/.ntvs_analysis.dat
+/.ntvs_analysis.dat.tmp
+.baseDir.ts
+
+node_modules/
+lib/
+dist/
+typings/
