@@ -22,9 +22,10 @@
     "typescript": "1.5.0-beta"
   },
   "dependencies": {
-    "node-author-intrusion": "^0.0.0",
+    "node-author-intrusion": "^0.1.0",
     "node-author-intrusion-echo": "^0.0.0",
-    "node-author-intrusion-split": "^0.0.0",
+    "node-author-intrusion-pos-tagger": "^0.0.0",
+    "node-author-intrusion-split": "^0.1.0",
     "findup-sync": "^0.2.1",
     "js-yaml": "^3.3.1",
     "jsonfile": "^2.2.1"

@@ -30,7 +30,6 @@
         "!node_modules/**/*.ts"
     ],
     "files": [
-        "src/cli/lint.ts",
         "src/index.ts",
         "src/io.ts",
         "src/processes/lint.ts",
